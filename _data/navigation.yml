@@ -1,6 +1,8 @@
 # main links links
 main:  
-  - title: "CV"
-    url: /cv/
+  - title: "Research"
+    url: /research/    
   - title: "WW2 Navy Archive Project"
-    url: /ww2navy/   
+    url: /ww2navy/  
+  - title: "CV"
+    url: /cv/     

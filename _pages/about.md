@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 I am a PhD student in Economics at Princeton University.  I am interested in cities, spatial sorting, and economic history. 
+
+
