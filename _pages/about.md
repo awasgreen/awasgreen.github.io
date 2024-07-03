@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Allison Green"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
